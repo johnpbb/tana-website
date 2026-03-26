@@ -7,11 +7,19 @@
     "start": "node app.js",
     "dev": "node app.js"
   },
-  "keywords": ["tana", "music", "fiji", "studio", "production"],
+  "keywords": [
+    "tana",
+    "music",
+    "fiji",
+    "studio",
+    "production"
+  ],
   "author": "Tana Music Fiji",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^17.3.1",
     "ejs": "^3.1.10",
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "nodemailer": "^8.0.4"
   }
 }
