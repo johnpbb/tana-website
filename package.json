@@ -1,0 +1,17 @@
+{
+  "name": "tana-music",
+  "version": "1.0.0",
+  "description": "Tana Music Fiji - Premium Island Studio featuring Head Producer Harry Levy",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "keywords": ["tana", "music", "fiji", "studio", "production"],
+  "author": "Tana Music Fiji",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}
