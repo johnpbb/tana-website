@@ -59,6 +59,7 @@ app.post('/contact', async (req, res) => {
     vocals: 'Vocal Sessions',
     mastering: 'Final Mastering',
     mixing: 'Mixing',
+    liveband: 'Live Band',
     other: 'Other / Custom Package'
   };
 
